@@ -1,5 +1,6 @@
 # Skill-exchange-
-Here you can exchange a skill that you have for something you need from other <!DOCTYPE html>
+Here you can exchange a skill that you have for something you need from other person
+ <!DOCTYPE html>
 <html>
 <head>
   <meta charset="UTF-8">
