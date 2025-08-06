@@ -1,5 +1,5 @@
 # Skill-exchange-
-Here you can exchange a skill that you have for something you need from other person
+https://github.com/mohd ahd/skill exchange/settings/pages
  <!DOCTYPE html>
 <html>
 <head>
